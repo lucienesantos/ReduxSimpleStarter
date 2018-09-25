@@ -1,8 +1,8 @@
 # ReduxSimpleStarter
 
-Application To seach video on Youtube API and show main video and a list videos. When click on video the page reaload the video main and show yours details.
+Application to seach video on Youtube API and show main video and a list videos. When click on video the page reaload the video main and show yours details.
 
-#React
+# React
 
 This application use React and Redux
 
